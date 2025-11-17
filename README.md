@@ -17,4 +17,5 @@ The core deliverable, the presentation (`625 Presentation.pptx`), is engineered 
 
 * **Data Source:** UofL institutional repository (budget, tuition, financial aid history).
 * **Analytical Focus:** Longitudinal trend analysis and benchmarking against peer institutions to identify areas of strategic financial imbalance.
+* **Tools used for Visualization:** Power BI.
 * **Conclusion:** The analysis provides a clear mandate for **budget re-allocation** and **targeted student support** to reverse current enrollment trends.
